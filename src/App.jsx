@@ -151,8 +151,8 @@ function App() {
               />
               <div className="text text-white flex flex-col gap-3 absolute bottom-60 left-1/2 -translate-x-1/2 scale-[1.4] rotate-[-10deg]">
                 <h1 className="text-[12rem] leading-none -ml-40">Grand</h1>
-                <h1 className="text-[12rem] leading-none ml-20">theft</h1>
-                <h1 className="text-[12rem] leading-none -ml-40">auto</h1>
+                <h1 className="text-[12rem] leading-none ml-20">Theft</h1>
+                <h1 className="text-[12rem] leading-none -ml-40">Auto</h1>
               </div>
               <img
                 className="absolute character -bottom-[150%] left-1/2 -translate-x-1/2  scale-[3] rotate-[-20deg]"
@@ -199,7 +199,7 @@ function App() {
                   eveniet eaque, dicta, hic quisquam? Ex cupiditate ipsa nostrum
                   autem sapiente.
                 </p>
-                <button className="bg-yellow-500 px-5 py-5 text-black mt-10 text-4xl">
+                <button className="bg-yellow-500 px-5 py-5 text-black mt-10 text-3xl rounded-full">
                   Download Now
                 </button>
               </div>
